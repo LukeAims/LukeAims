@@ -11,3 +11,7 @@ You'll find a variety of projects on my profile, ranging from small scripts and 
 When I'm not coding, you can find me out fishing or with my family. I believe that a healthy work-life balance is essential for long-term success and happiness.
 
 Feel free to browse my projects and reach out if you have any questions or just want to chat about code. Let's build something amazing together!
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,sass,git,vscode,vim,shell)](https://skillicons.dev)
