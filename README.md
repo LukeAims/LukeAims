@@ -1,6 +1,8 @@
+# Hi, my name is Luke, welcome to my GitHub profile 😄
+
 ![A header image showing code](/images/CORPORATE%20WEBSITES.png)
 
-## *Welcome to my GitHub profile!* 👋,
+## *Greetings* 👋
 
 I am a passionate developer who loves to create amazing things with code. Open source is my jam, and I believe that collaboration is the key to success in the tech industry.
 
@@ -14,4 +16,4 @@ Feel free to browse my projects and reach out if you have any questions or just 
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,sass,git,vscode,vim,shell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,sass,git,vscode,vim,zsh)](https://skillicons.dev)
