@@ -16,4 +16,4 @@ Feel free to browse my projects and reach out if you have any questions or just 
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,sass,git,vscode,vim,zsh)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,sass,git,vscode,vim,bash)](https://skillicons.dev)
