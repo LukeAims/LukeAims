@@ -1,4 +1,4 @@
-# Hi, my name is Luke, welcome to my GitHub profile 😄
+# Hi, welcome to my GitHub profile 😄
 
 ![A header image showing code](/images/CORPORATE%20WEBSITES.png)
 
