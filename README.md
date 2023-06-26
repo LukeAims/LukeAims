@@ -10,7 +10,7 @@ Currently, I am focusing on improving my skills in HTML, CSS, and JavaScript. I'
 
 You'll find a variety of projects on my profile, ranging from small scripts and games to web applications. I enjoy experimenting with different technologies and frameworks, and I'm always excited to learn something new.
 
-When I'm not coding, you can find me out fishing or with my family. I believe that a healthy work-life balance is essential for long-term success and happiness.
+When I'm not coding, you can find me at the gym or with my family. I believe that a healthy work-life balance is essential for long-term success and happiness.
 
 Feel free to browse my projects and reach out if you have any questions or just want to chat about code. Let's build something amazing together!
 
