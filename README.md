@@ -49,7 +49,7 @@ Feel free to browse my projects and reach out if you have any questions or just 
 
 &ensp;
 
-### IDEs
+### Text Editors
 [![NeoVim](https://img.shields.io/badge/NeoVim-black?&style=for-the-badge&logo=neovim&logoColor=00665c)]()
 [![Vim](https://img.shields.io/badge/VIM-black?&style=for-the-badge&logo=vim&logoColor=339e61)]()
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=0033FF)]()
