@@ -68,7 +68,7 @@ Feel free to browse my projects and reach out if you have any questions or just 
 
 ### Statistics  
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukeAims&theme=react" width="35%" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukeAims&theme=react" width="40=%" /> 
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeAims&theme=react&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" width="20%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeAims&theme=react&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" width="40%" />
 </div>
