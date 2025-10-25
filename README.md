@@ -68,4 +68,5 @@ Feel free to browse my projects and reach out if you have any questions or just 
 
 <div align=”centre”>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeAims&theme=react&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" width="80%" />
+  &nbsp;
 </div>
